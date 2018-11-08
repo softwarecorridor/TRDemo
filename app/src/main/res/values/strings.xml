@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TRDemo</string>
+    <string name="user_label">User ID:</string>
+    <string name="empty_page_text">Please wait while we download your ToDOs</string>
+</resources>
